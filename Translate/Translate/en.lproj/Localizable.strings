@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  Translate
+
+  Created by 박경춘 on 2023/03/31.
+  
+*/
+
+"Translate" = "Translate";
+"Bookmark" = "Bookmark";
+
+"Korean" = "Korean";
+"English" = "English";
+"Japanese" = "Japanese";
+"Chinese" = "Chiness";
+
+"Cancel" = "Cancel";
+
+"Enter_text" = "Enter text";
+
